@@ -4,4 +4,4 @@
 
 <h3> Screen Gif </h3>
 
-![](ekren.gif)
+![](ekran.gif)
